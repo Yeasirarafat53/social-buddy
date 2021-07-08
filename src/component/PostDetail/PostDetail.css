@@ -1,0 +1,21 @@
+.postDetail{
+    /* border: 1px solid purple; */
+    border-radius:10px;
+    width: 600px;
+    padding:10px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(180, 224, 224, 0.466);
+    box-shadow: 5px 5px 5px 2px gray;
+
+}
+ hr{
+    width:200px;
+    margin-left: 0px;
+    
+}
+
+.Whole-post{
+    margin-left:35%;
+    
+}
